@@ -1,0 +1,17 @@
+result
+result-*
+.direnv/
+
+build/
+*.uf2
+*.bin
+config/*.yaml
+
+.west/
+zmk/
+modules/
+zephyr/build/
+zmk/
+modules/
+tools/
+.west/
